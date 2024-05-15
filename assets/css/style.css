@@ -11,7 +11,7 @@ body {
     background-color: #d9dcd6;
 }
 
-  /* Styles for the top part of site */ 
+/* Styles for the top part of site */ 
 
 header {
     padding: 20px;
@@ -29,7 +29,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-  /* Styles for top navigation bar */
+/* Styles for top navigation bar */
+
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,16 +39,22 @@ nav {
     font-size: 20px;
 }
 
-nav div ul {
+nav ul {
     list-style-type: none;
 }
 
 nav ul li {
     display: inline-block;
     margin-left: 25px;
+    color: #ffffff;
+}
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
 }
 
 /* Full width Hero Image */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -73,10 +80,6 @@ footer h2 {
 
 /* Reusable elements and miscellaneous styles*/
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
 
 p {
     font-size: 16px;
