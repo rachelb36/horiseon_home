@@ -1,12 +1,17 @@
+/* Reset */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+*/
 
+/* Base */
 body {
     background-color: #d9dcd6;
 }
+
+  /* Styles for the top part of site */ 
 
 header {
     padding: 20px;
@@ -24,6 +29,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+  /* Styles for top navigation bar */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,6 +47,32 @@ nav ul li {
     margin-left: 25px;
 }
 
+/* Full width Hero Image */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+  /* Styles for page footer */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
+*/***********************************/*
+
+/* Reusable elements and miscellaneous styles*/
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,15 +81,6 @@ a {
 p {
     font-size: 16px;
     margin-bottom: 40px;
-}
-
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 .float-left {
@@ -71,6 +94,8 @@ p {
 }
 
 
+/* Benefits section box and element styles of website*/
+
 .benefits {
     display: block;
     margin-right: 20px;
@@ -82,7 +107,6 @@ p {
     background-color: #2589bd;
     color:#ffffff;
     margin-bottom: 32px;
-
 }
 
 .benefits h3 {
@@ -93,8 +117,10 @@ p {
 .benefits img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width: 150px; 
 }
+
+/* Services Section block and element styles */
 
 .services {
     width: 75%;
@@ -120,16 +146,4 @@ p {
 
 .service img {
     max-height: 200px;
-}
-
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
 }
