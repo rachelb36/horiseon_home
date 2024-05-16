@@ -36,7 +36,7 @@ To view project, navigate to https://rmburgos.github.io/module1_challenge/
 
 ## Credits
 
-**This project used starter code provided by the instructors of the Rice University Coding Bootcamp**
+**This project used starter code provided by the instructors and TAs of the Rice University Coding Bootcamp, including Mateo Wallace, Mark Alfano, Gerard Mennella**
 
 **STARTER CODE** downloaded from:
  <https://github.com/coding-boot-camp/urban-octo-telegram>
@@ -51,6 +51,13 @@ To view project, navigate to https://rmburgos.github.io/module1_challenge/
 
 Tutorial instructions found here
 [Tutorial link](https://bootcampspot.instructure.com/courses/6708/assignments/80706?module_item_id=1263985)
+
+Additional sources include:
+- <https://www.w3schools.com/cssref/css_selectors.php>
+- <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model>
+- <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model>
+- <https://coding-boot-camp.github.io/full-stack/git/getting-started-with-git>
+- <https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide>
 
 ## License
 
