@@ -35,7 +35,7 @@ List your collaborators, if any, with links to their GitHub profiles.
 
 - Downloaded at https://github.com/coding-boot-camp/urban-octo-telegram
 
-[If you followed tutorials, include links to those here as well.]
+- Used tutorial listed below for instructions:
 (https://bootcampspot.instructure.com/courses/6708/assignments/80706?module_item_id=1263985)
 
 ## License
