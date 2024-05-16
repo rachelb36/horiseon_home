@@ -19,11 +19,13 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-Navigate to https://rmburgos.github.io/module1_challenge/
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+-  To view project navigate to https://rmburgos.github.io/module1_challenge/
 
-    ```md
-    ![alt text](assets/images/module1_challenge.png)
+
+[module1_challenge](https://github.com/rmburgos/module1_challenge/assets/97217944/0545088f-0927-4d2e-8e8f-7466b69cd03d)
+
+
+
 
 ## Credits
 
