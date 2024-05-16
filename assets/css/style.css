@@ -80,8 +80,7 @@ footer h2 {
 
 /* Reusable elements and miscellaneous styles*/
 
-
-p {
+p   {
     font-size: 16px;
     margin-bottom: 40px;
 }
@@ -94,33 +93,6 @@ p {
 .float-right {
     float: right;
     margin-left: 50px;
-}
-
-
-/* Benefits section box and element styles of website*/
-
-.benefits {
-    display: block;
-    margin-right: 20px;
-    padding: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    width: 20%;
-    /*height: 100%;*/
-    background-color: #2589bd;
-    color:#ffffff;
-    margin-bottom: 32px;
-}
-
-.benefits h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px; 
 }
 
 /* Services Section block and element styles */
@@ -142,11 +114,40 @@ p {
 }
 
 .service h2 {
-    margin-top: 32px;
+    margin-top: 20px;
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 .service img {
     max-height: 200px;
+}
+
+/* Benefits section box and element styles of website*/
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 21%;
+    background-color: #2589bd;
+    color:#ffffff;
+  
+}
+
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px; 
+}
+.benefit p {
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
