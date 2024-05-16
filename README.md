@@ -22,11 +22,10 @@ states"
   
 ## Installation
 
-To run this project, navigate to
+To run this project, navigate to:
 
-![module1_challenge](https://github.com/rmburgos/module1_challenge/assets/97217944/acddd053-b5c3-42ff-b7e7-38691b86252a)
+To view project navigate to https://rmburgos.github.io/module1_challenge/
 
--  To view project navigate to https://rmburgos.github.io/module1_challenge/
 
 ## Usage
 
@@ -41,13 +40,13 @@ To run this project, navigate to
 - This project used starter code provided by the instructors of the Rice University Coding Bootcamp
 - Starter code contributors:
 - Xander Rapstine
-- [reference text]: https://github.com/Xandromus
-- [reference text]: http://www.rapstine.com
+- ![reference text]: https://github.com/Xandromus
+- ![reference text]: http://www.rapstine.com
 - George Yoo
-- [reference text]: https://github.com/Georgeyoo [reference text]:
-- https://www.linkedin.com/in/george-yoo/
+- ![reference text]: https://github.com/Georgeyoo
+- ![reference text]: https://www.linkedin.com/in/george-yoo/
 
-[reference text]: https://github.com/coding-boot-camp/urban-octo-telegram
+![reference text]: https://github.com/coding-boot-camp/urban-octo-telegram
 
 - Used tutorial listed below for instructions:
 (https://bootcampspot.instructure.com/courses/6708/assignments/80706?module_item_id=1263985)
