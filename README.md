@@ -6,10 +6,11 @@
 ## Description
 
 - BOOTCAMP MODULE 1 CHALLENGE 
-- Modified starter code to make an existing site more accessible and SEO friendly.  Applied scout rule, which when using someone else's code:   "Always leave the code you are editing a little cleaner than you found it"
+- Modified starter code to make an existing site more accessible and SEO friendly.  Applied scout rule, which when using someone else's code:
+> "Always leave the code you are editing a little cleaner than you found it"
 states"
 
-###Steps Included:
+### Steps Included:
     - Combined redundant CSS code
     - Deleted dead code
     - Renamed overly complex .class names.
