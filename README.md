@@ -15,11 +15,8 @@
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-## Usage
-
 -  To view project navigate to https://rmburgos.github.io/module1_challenge/
+## Usage
 
 ![module1_challenge](https://github.com/rmburgos/module1_challenge/assets/97217944/acddd053-b5c3-42ff-b7e7-38691b86252a)
 
