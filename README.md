@@ -11,7 +11,7 @@
 - Modified <title> to be descriptive for SEO and accessibility
 - Added <alt> tag to all images for accessibility
 
-- Take the provided codebase and refactor it to make it accessible. Don't forget the cardinal rule when working with someone elses code: "Always leave the code you are editing a little cleaner than you found it"
+- Take the provided codebase and refactor it to make it accessible. Don't forget the cardinal rule when working with someone else's code: "Always leave the code you are editing a little cleaner than you found it"
 
 ## Installation
 
@@ -19,13 +19,11 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage
 
-URL to github page
-
+Navigate to https://rmburgos.github.io/module1_challenge/
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
     ![alt text](assets/images/module1_challenge.png)
-    ```
 
 ## Credits
 
