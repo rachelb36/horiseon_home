@@ -101,10 +101,10 @@ p   {
 /* Services Section block and element styles */
 
 .services {
-    width: 75%;
-    display: inline-block;
+    width: 74%;
     margin-left: 20px;
     margin-right: 20px;
+    display: inline-block;
 }
 
 .service {
@@ -138,6 +138,7 @@ p   {
     float: right;
     background-color: #2589bd;
     color:#ffffff;
+    display: inline-block;
   
 }
 
