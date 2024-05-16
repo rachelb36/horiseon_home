@@ -7,13 +7,23 @@
 
 - BOOTCAMP MODULE 1 CHALLENGE 
 - Modified starter code to make an existing site more accessible and SEO friendly.  Applied scout rule, which when using someone else's code:   "Always leave the code you are editing a little cleaner than you found it"
-states " and combined redundant code and removed dead code.
-- Learned how to use semantic HTML tags,CSS and steps necessary to make website more accessible and better for SEO.
-- Modified <title> to be descriptive for SEO and accessibility
-- Added <alt> tag to all images for accessibility
+states"
 
-* By taking the provided codebase and refactoring it to make it accessible. I implemented the cardinal rule when working with someone else's code: 
+###Steps Included:
+    - Combined redundant CSS code
+    - Deleted dead code
+    - Renamed overly complex .class names.
+    - Replaced non-semantic <HTML> tags with semantic <HTML> tags.
+    - Added descriptive <alt> tags to <IMG> tags in order to provide more clarity for screen readers and SEO.
+    - Added descriptive <title to <HTML> page.
+    - Modified <title> to be descriptive for SEO and accessibility
+
+  
 ## Installation
+
+To run this project, navigate to
+
+![module1_challenge](https://github.com/rmburgos/module1_challenge/assets/97217944/acddd053-b5c3-42ff-b7e7-38691b86252a)
 
 -  To view project navigate to https://rmburgos.github.io/module1_challenge/
 
