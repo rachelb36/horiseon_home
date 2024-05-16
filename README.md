@@ -9,7 +9,7 @@ Added <alt> tag to all images for accessibility
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - BOOTCAMP MODULE 1 CHALLENGE
-- Modified starter code to make an existing site more accessible
+- Modified starter code to make an existing site more accessible.  Applied scout rule and combined redundant code and removed dead code.
 - CODE REFACTOR PROJECT
 - What did you learn?
 

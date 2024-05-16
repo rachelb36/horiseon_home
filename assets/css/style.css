@@ -4,7 +4,7 @@
     padding: 0;
     margin: 0;
 }
-*/
+
 
 /* Base */
 body {
@@ -82,7 +82,6 @@ footer h2 {
 
 p   {
     font-size: 16px;
-    margin-bottom: 40px;
 }
 
 .float-left {
@@ -92,7 +91,11 @@ p   {
 
 .float-right {
     float: right;
-    margin-left: 50px;
+    margin-left: 100px;
+}
+
+.content {
+    width: 80%;
 }
 
 /* Services Section block and element styles */
@@ -101,12 +104,12 @@ p   {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    margin-right: 20px;
 }
 
 .service {
-    margin-top: 0;
     margin-bottom: 20px;
-    padding: 50px;
+    padding: 50px 75px 50px 75px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -114,23 +117,25 @@ p   {
 }
 
 .service h2 {
-    margin-top: 20px;
+    margin-top: 0px;
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 .service img {
     max-height: 200px;
+
 }
 
 /* Benefits section box and element styles of website*/
 
 .benefits {
     margin-right: 20px;
+    margin-left: 0px;
     padding: 20px;
-    float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     width: 21%;
+    float: right;
     background-color: #2589bd;
     color:#ffffff;
   
@@ -147,7 +152,8 @@ p   {
     max-width: 150px; 
 }
 .benefit p {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     margin-left: 10px;
     margin-right: 10px;
+    padding: 20px;
 }
