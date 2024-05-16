@@ -52,7 +52,7 @@ To view project, navigate to https://rmburgos.github.io/module1_challenge/
 Tutorial instructions found here
 [Tutorial link](https://bootcampspot.instructure.com/courses/6708/assignments/80706?module_item_id=1263985)
 
-Additional sources include:
+Additional resources include:
 - <https://www.w3schools.com/cssref/css_selectors.php>
 - <https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model>
 - <https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model>
