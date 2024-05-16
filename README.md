@@ -4,18 +4,20 @@
 ## Description
 
 - BOOTCAMP MODULE 1 CHALLENGE 
-- Modified starter code to make an existing site more accessible and SEO friendly.  Applied scout rule, which when using someone else's code:
+- Modified starter code to make an existing site more accessible and SEO-friendly.
+- Applied scout rule, which when using someone else's code states:
 > "Always leave the code you are editing a little cleaner than you found it"
-states"
 
-### Tasks completed:
+### Tasks completed
 
-    - Combined redundant CSS code
-    - Deleted dead code
-    - Renamed overly complex .class names.
-    - Replaced non-semantic <HTML> tags with semantic <HTML> tags. in order to provide more clarity for screen readers and SEO.
-    - Added descriptive <title to <HTML> page.
-    - Modified <title> to be descriptive for SEO and accessibility
+**Code Refactor Steps:**
+- Combined redundant CSS code
+- Deleted dead code in CSS
+- Organized and simplified selectors in CSS
+- Replaced non-semantic <HTML> tags with semantic <HTML> tags.
+- Added descriptive <title to <HTML> page.
+- Modified <title> to be descriptive for SEO and accessibility
+- Added comments to HTML and CSS page
 
   
 ## Installation
@@ -35,19 +37,16 @@ To view project, navigate to https://rmburgos.github.io/module1_challenge/
 
 ## Credits
 
-** This project used starter code provided by the instructors of the Rice University Coding Bootcamp **
-- Starter code contributors:
-    - **Xander Rapstine**
-  <https://github.com/Xandromus>
-  <http://www.rapstine.com>
-    - **George Yoo**
-    * https://github.com/Georgeyoo
-    * https://www.linkedin.com/in/george-yoo/
+**This project used starter code provided by the instructors of the Rice University Coding Bootcamp**
 
- **STARTER CODE** downloaded from:
+**STARTER CODE** downloaded from:
  <https://github.com/coding-boot-camp/urban-octo-telegram>
 
-Tutorial for instructions:
+- Starter code contributors:
+    - **Xander Rapstine** <https://github.com/Xandromus> <http://www.rapstine.com>
+    - **George Yoo*** https://github.com/Georgeyoo https://www.linkedin.com/in/george-yoo/
+
+Tutorial instructions
 [Tutorial link](https://bootcampspot.instructure.com/courses/6708/assignments/80706?module_item_id=1263985)
 
 ## License
