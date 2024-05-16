@@ -40,6 +40,8 @@ List your collaborators, if any, with links to their GitHub profiles.
 
 ## License
 
+Distributed under the MIT License. See LICENSE.txt for more information.
+
 MIT License
 
 Copyright (c) [2024] [Rachel Burgos]
