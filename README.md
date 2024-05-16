@@ -5,13 +5,13 @@
 
 ## Description
 
-- BOOTCAMP MODULE 1 CHALLENGE - Assigned after
+- BOOTCAMP MODULE 1 CHALLENGE 
 - Modified starter code to make an existing site more accessible.  Applied scout rule and combined redundant code and removed dead code.
-- Learned how to use semantic tag, more css, adding more descriptive alt tags to images.
+- Learned how to use semantic HTML tags,CSS and steps necessary to make website more accessible and better for SEO.
 - Modified <title> to be descriptive for SEO and accessibility
 - Added <alt> tag to all images for accessibility
 
-- Take the provided codebase and refactor it to make it accessible. Don't forget the cardinal rule when working with someone else's code: "Always leave the code you are editing a little cleaner than you found it"
+* By taking the provided codebase and refactoring it to make it accessible. I implemented the cardinal rule when working with someone else's code: "Always leave the code you are editing a little cleaner than you found it"
 
 ## Installation
 
