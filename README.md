@@ -15,9 +15,8 @@
 - Deleted dead code in CSS
 - Organized and simplified selectors in CSS
 - Replaced non-semantic <HTML> tags with semantic <HTML> tags.
-- Added descriptive <title to <HTML> page.
-- Modified <title> to be descriptive for SEO and accessibility
-- Added comments to HTML and CSS page
+- Modified <title> to be descriptive for SEO and accessibility.
+- Added descriptive comments to HTML and CSS page
 
   
 ## Installation
@@ -43,10 +42,14 @@ To view project, navigate to https://rmburgos.github.io/module1_challenge/
  <https://github.com/coding-boot-camp/urban-octo-telegram>
 
 - Starter code contributors:
-    - **Xander Rapstine** <https://github.com/Xandromus> <http://www.rapstine.com>
-    - **George Yoo*** https://github.com/Georgeyoo https://www.linkedin.com/in/george-yoo/
+    - **Xander Rapstine**
+        - <https://github.com/Xandromus>
+        - <http://www.rapstine.com>
+    - **George Yoo**
+        - <https://github.com/Georgeyoo>
+        - <https://www.linkedin.com/in/george-yoo/>
 
-Tutorial instructions
+Tutorial instructions found here
 [Tutorial link](https://bootcampspot.instructure.com/courses/6708/assignments/80706?module_item_id=1263985)
 
 ## License
