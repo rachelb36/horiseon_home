@@ -5,6 +5,11 @@
     margin: 0;
 }
 
+/* adds smooth scroll to page/*
+
+html {
+    scroll-behavior: smooth;
+  }
 
 /* Base */
 body {
@@ -63,20 +68,6 @@ nav ul li a {
     background-size: cover;
     background-position: center;
 }
-
-  /* Styles for page footer */
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-}
-
-*/***********************************/*
 
 /* Reusable elements and miscellaneous styles*/
 
@@ -139,7 +130,6 @@ p   {
     background-color: #2589bd;
     color:#ffffff;
     display: inline-block;
-  
 }
 
 .benefit h3 {
@@ -158,3 +148,18 @@ p   {
     margin-right: 10px;
     padding: 20px;
 }
+
+  /* Styles for page footer */
+
+  footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
+/***********************************/
